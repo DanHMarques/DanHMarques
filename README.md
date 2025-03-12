@@ -1,6 +1,6 @@
 # Diz ai Amigo! Bem vindos ao meu Perfil. 👋😎👾
 
-##   - 🎮 Processo de Aprendizagem para Programador de Jogos Digitais;
+##   - 🎮 Técnico em Programação de Jogos Digitais;
 
 ## 👨🏼‍💻 SESI SENAI:
 ###   - Aprendendo Programação C# e Unity;
